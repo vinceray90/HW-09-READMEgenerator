@@ -1,0 +1,24 @@
+{
+  "name": "HW-09-READMEgenerator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinceray90/HW-09-READMEgenerator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinceray90/HW-09-READMEgenerator/issues"
+  },
+  "homepage": "https://github.com/vinceray90/HW-09-READMEgenerator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "readline": "^1.3.0"
+  }
+}
